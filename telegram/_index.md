@@ -29,6 +29,7 @@ weight = 1
 * [Speccy code](https://t.me/speccy_code) — Speccy coders chat
 * [ZXDev (Oberon)](https://t.me/zxdev)
 * [ZXDev Masters](https://t.me/zxdev_masters)
+* [Retro Development](https://t.me/RetroDevelopment)
 ### ZX Games
 * [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
 ### ZX hard and emulation
