@@ -68,6 +68,8 @@ weight = 1
 * [ZX Spectrum [RU] (only ontopic)](https://t.me/zxspectrum_ru) — Группа по общению на любые темы о ZX Spectrum
 * [Bleep Market](https://t.me/bleepmarket) — Продажа, покупка и обмен компьютерной техники и переферии выпущенной до 2000г.
 * [Кибер-музей в Муроме](https://t.me/museum_computer) — Официальная группа  музея для общения и любых вопросов (сайт http://museum.computer/)
+* [ZX Spectrum handhelds](https://t.me/zxspectrumhandhelds) - ZX Spectrum в портативном формате.
+* [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) - Основная тема - эмуляторы спектрум совместимых компьютеров. Но и смежные тематики по ZX Spectrum'у не осуждаются.
 ### Demoscene and retroscene other
 * [HYPE.RETROSCENE.ORG](https://t.me/hypezx) — Тут ретросцена
 * [/r/Demoscene](https://t.me/join?invite=AAAAAEKB8q1PGOZ48br3nA) — Demoscene from Reddit
