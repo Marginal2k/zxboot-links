@@ -52,6 +52,7 @@ weight = 4
 * [ZEsarUX](https://github.com/chernandezba/zesarux) — ZX Second-Emulator And Released for UniX. Created by Cesar Hernandez Bano. It's a ZX Machines Emulator for UNIX-based operating systems (and Windows), including all the Sinclair computers
 * [CSpect](http://www.cspect.org/) — Emulates many features of the Next and includes a fully featured debugger, complete with 24-bit breakpoints and an assembler
 * [jnext](https://github.com/jorgegv/jnext) — ZX Spectrum Next emulator using VHDL sources as a reference
+* [zx_go](https://github.com/conorarmstrong/zx_go) — faithful emulator for the entire Sinclair 8-bit line — the ZX80, the ZX81, every classic ZX Spectrum (48K, 128K, +2, +2A, +3), the Pentagon clone, SAM Coupé and a from-the-silicon-up ZX Spectrum Next — written in Go.
 * [SpecEmu](https://specemu.zxe.io/) — SpecEmu emulator (for snow/rain "enable ula snow")
 * [ZXSEC](http://cngsoft.no-ip.org/cpcec.htm) — CPCEC Amstrad CPC emulator and its siblings ZXSEC, CSFEC and MSXEC
 * [Swan](https://github.com/zoran-vucenovic/swan) — ZX Spectrum emulator for Windows and Linux. Might compile and run on Mac, but not tested
@@ -83,6 +84,7 @@ weight = 4
 * [FBZX](https://gitlab.com/rastersoft/fbzx) — ZX Spectrum emulator for FrameBuffer
 * [Z80 Machine Lab](https://github.com/chriswilson2020/zx-spectrum-emulator) — aithful Zilog Z80 emulator with two browser-hosted machine layers: ZX Spectrum 48K & bootable CP/M 2.2 machine
 * [ZOT](https://github.com/antirez/ZOT) — Z80, ZX Spectrum 48k and CP/M emulator
+* [SpecIde](https://codeberg.org/MartianGirl/SpecIde) — (yet another) ZX Spectrum (and, partially, Amstrad CPC) emulator. Emulation of ZX Spectrum 48K (Issue 2/3), 128K, +2, +2A and +3
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
 * [Visualz80 Remix](https://floooh.github.io/visualz80remix/) — очень точная (но медленная) визуальная эмуляция z80
