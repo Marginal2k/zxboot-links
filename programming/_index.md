@@ -18,6 +18,7 @@ weight = 3
 * [z80-optimizer](https://github.com/oisee/z80-optimizer) — Brute-force Z80 superoptimizer — finds provably optimal instruction replacements
 * [DeZog](https://github.com/maziac/DeZog) — Расширение для VSCode для программирования под Spectrum | [(Пример настройки DeZog)](https://github.com/maziac/z80-sample-program)
 * [BasinC](https://basinc.zx.tr/) — Эмулятор и полезные утилиты для программирования и разработки на zx basic. [GitHub Repo](https://github.com/ref-xx/basinc)
+* [Basically](https://ba.sical.ly/) — web IDE for microcomputer BASIC - write, run and ship games and programs for real retro hardware from your browser. Поддержаны платформы: ZX80, ZX81, ZX Spectrum (48 и 128), C64, TRS-80, BBC Micro/Master, Acorn Atom. Встроенная документация
 * [z88dk](https://z88dk.org/site/) — C and assembler development kit that comes ready out-of-the-box to create programs for over 100 z80-family (8080, 8085, gbz80, z80, z180, ez80_z80, KC160, Rabbit 2000, 3000, 4000, 5000) machines. [GitHub](https://github.com/z88dk/z88dk)
 * [PASTA/80](https://github.com/pleumann/pasta80) — Turbo Pascal 3.0-compatible compiler that generates machine code for classic and modern Z80 machines (currently ZX Spectrum 48K/128K/Next and CP/M)
 * [JASSCO](https://github.com/reeagbo/Jassco) — Python-based cross-compiler that reads a small JavaScript-like program and generates Z80 assembly code. The current target is ZX Spectrum.
