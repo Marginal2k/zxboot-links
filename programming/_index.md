@@ -27,6 +27,7 @@ weight = 3
 * [ASM80](https://www.asm80.com/) — Integrated Development Environment (IDE), aimed on assembler development for 8bit microprocessors, mainly 8080, 8085, Z80 and 6502
 * [The ORG ASM IDE](https://clrhome.org/asm/) — online IDE and assembler for Z80 projects with special options for projects for the TI-83 Plus–series calculators and ZX Spectrum
 * [8bitworkshop IDE](https://8bitworkshop.com/) — Online IDE для разработки программ для различных систем включая ZX Spectrum 48k, NES, Atari 2600, Sega Game Gear, MSX, C64, Amstrad CPC6128
+* [RetroGameCoders Online IDE](https://ide.retrogamecoders.com/?file=hello.asm&platform=zxnext) — Originally this project started out as a fork of the 8bitworkshop IDE, but has since been developed and expanded to be a more complete IDE for more platforms (ZX81, ZX Spectrum, ZX Spectrum Next, Amstrad, Commodore, MSX, Atari, etc) languages (BASIC, ugBASIC, TRSE, C, Assembler), compilers, and features.
 * [zx-basic-syntax](https://github.com/patters-match/zx-basic-syntax) — ZX BASIC language syntax for editing .bas files in Sublime Text 3 code editor. It also supports regular Sinclair BASIC, and zmakebas listings
 * [BorIDE](http://members.inode.at/838331/pc.html) — IDE для Boriels ZX BASIC, правда обновлялось последний раз в 2013
 * [Z80 Development Toolchain](http://www.breakintoprogram.co.uk/hardware/computers/zx-spectrum/assembly-language/z80-development-toolchain) — IDE на базе Visual Studio Code
