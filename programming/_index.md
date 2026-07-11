@@ -14,6 +14,13 @@ weight = 3
 * [rasm](https://github.com/EdouardBERGE/rasm/) — Extremely fast and powerful Z80 assembler
 * [WLA DX](https://github.com/vhelin/wla-dx) — Yet Another GB-Z80/Z80/Z80N/6502/65C02/65CE02/65816/68000/6800/6801/6809/8008/8080/HUC6280/SPC-700/SuperFX Multi Platform Cross Assembler Package
 * [pyz80](https://github.com/simonowen/pyz80) — Z80 cross assembler от Саймона Оуэна
+* [zmac](https://48k.ca/zmac.html) — Z80 Macro Cross Assembler
+* [Pasmo](https://pasmo.speccy.org/) — portable Z80 cross assembler [GitHub](https://github.com/jounikor/pasmo)
+* [Zeus-ish](https://www.desdes.com/products/oldfiles/zeus.htm) — complete Z80 IDE and Macro assembler, scripted disassember plus an integrated Z80 emulator for a range of machines including partial Next support
+* [FantASM]([https://github.com/CatpainBlack/FantASM](https://codeberg.org/TwistedRaven/fantasm)) — high-performance, two-pass Z80 assembler written in Rust. It is designed with a focus on modern features, ease of use, and deep integration with the ZX Spectrum Next and the CSpect emulator
+* [bazematic](https://bazematic.demozoo.org/) — ZX Spectrum live coding environment
+* [Bonzomatic](https://github.com/Gargaj/Bonzomatic) — Live shader coding tool and Shader Showdown workhorse
+* [nyukomatic](https://github.com/alexanderk23/nyukomatic) — ZX Spectrum live-coding tool inspired by Bazematic and Bonzomatic by Stardust
 * [MDL](https://github.com/santiontanon/mdlz80optimizer) — Z80 assembler optimizer
 * [z80-optimizer](https://github.com/oisee/z80-optimizer) — Brute-force Z80 superoptimizer — finds provably optimal instruction replacements
 * [DeZog](https://github.com/maziac/DeZog) — Расширение для VSCode для программирования под Spectrum | [(Пример настройки DeZog)](https://github.com/maziac/z80-sample-program)
