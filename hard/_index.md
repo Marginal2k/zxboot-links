@@ -80,7 +80,7 @@ weight = 4
 * [ZX-M8XXX9(ZX Matrix)](https://github.com/Bedazzle/ZX-M8XXX) — vanilla JavaScript ZX Spectrum emulator with debugger aimed for reverse engineering
 * [ZX84](https://zx84.envytech.workers.dev/) — Sinclair ZX Spectrum emulator for your browser with MCP server by Damien Guard. 48k/128k/+3. Tr-Dos не поддерживает. [GitHub](https://github.com/damieng/zx84)
 * [EmuStudio-ZX](https://zx-pk.ru/threads/21908-emustudio-zx.html) — эмулятор от Titus'а: эмуляция железа реального времени (каждый кадр эмулируемой системы совпадает с кадром развертки PC), эмуляция AY-3-8910 сделана точно по реверсу кристалла
-* [Zero](https://github.com/ArjunNair/Zero-Emulator) — a spectrum emulator written entirely on the .NET platform, using C#, and requires .NET framework 4.7 or above. Emulates th e 48k, 128k, 128k SE, the Spectrum +2 and the Spectrum +3 (with 2 disk drives), and the Pentagon 128k models.
+* [Zero](https://github.com/ArjunNair/Zero-Emulator) — a spectrum emulator written entirely on the .NET platform, using C#, and requires .NET framework 4.7 or above. Emulates the 48k, 128k, 128k SE, the Spectrum +2 and the Spectrum +3 (with 2 disk drives), and the Pentagon 128k models.
 * [SoftSpectrum 48](https://softspectrum48.weebly.com/) — ZX Spectrum 16K/48K/128/+2/+2A/+3 emulation. Contended memory, contended I/O and the floating bus are emulated (including  the +2A/+3 floating bus)
 * [FBZX](https://gitlab.com/rastersoft/fbzx) — ZX Spectrum emulator for FrameBuffer
 * [Z80 Machine Lab](https://github.com/chriswilson2020/zx-spectrum-emulator) — aithful Zilog Z80 emulator with two browser-hosted machine layers: ZX Spectrum 48K & bootable CP/M 2.2 machine
