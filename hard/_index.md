@@ -72,6 +72,7 @@ weight = 4
 * [pico-zxspectrum](https://github.com/fruit-bat/pico-zxspectrum) — ZX Spectrum for Raspberry Pico Pi RP2040
 * [ZXBaremulator](https://zxmini.speccy.org/en/index.html) — the first complete ZX Spectrum 48K/128K/+2A bare-metal emulator for the Raspberry Pi computers
 * [ESPectrum](https://github.com/EremusOne/ESPectrum) — A ZX Spectrum 48K, 128K, and Pentagon 128 emulator running on the Espressif ESP32 SoC
+* [pi-mame](https://github.com/Xalior/pi-mame/) — Bare-metal MAME for the Raspberry Pi 4. No Linux, no OS, no desktop. Two families are emulated: [Sinclair](https://github.com/Xalior/pi-mame/blob/main/docs/sinclair/README.md) and [Amstrad](https://github.com/Xalior/pi-mame/blob/main/docs/amstrad/README.md)
 * [JaS](https://jas.speccy.org/) — Java Spectrum emulator
 * [JSSpeccy 3](https://github.com/gasman/jsspeccy3) — ZX Spectrum emulator for the browser. Умеет в Пентагон, но не умеет в TR-DOS
 * [JSpeccy](https://github.com/jsanchezv/JSpeccy) — multiplatform ZX Spectrum emulator written in Java
@@ -85,6 +86,9 @@ weight = 4
 * [Z80 Machine Lab](https://github.com/chriswilson2020/zx-spectrum-emulator) — aithful Zilog Z80 emulator with two browser-hosted machine layers: ZX Spectrum 48K & bootable CP/M 2.2 machine
 * [ZOT](https://github.com/antirez/ZOT) — Z80, ZX Spectrum 48k and CP/M emulator
 * [SpecIde](https://codeberg.org/MartianGirl/SpecIde) — (yet another) ZX Spectrum (and, partially, Amstrad CPC) emulator. Emulation of ZX Spectrum 48K (Issue 2/3), 128K, +2, +2A and +3
+* [PyZX](https://github.com/Q-Master/PyZX) — Python ZX Spectrum Emulator
+* [PyZXSpectrum](https://github.com/folkertvanheusden/PyZXSpectrum) — ZX spectrum emulator written in Python
+* [zx](https://github.com/kosarev/zx) — ZX Spectrum emulation framework in Python and C++
 ## Emulators Z80
 * [Zilog Z80 CPU Emulator](https://github.com/redcode/Z80) — библиотека эмуляции z80
 * [Visualz80 Remix](https://floooh.github.io/visualz80remix/) — очень точная (но медленная) визуальная эмуляция z80
