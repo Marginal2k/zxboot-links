@@ -20,7 +20,8 @@ weight = 4
 * [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine
 * [ZXMAK.NET](https://sourceforge.net/projects/zxmak-dotnet/) — The Free .NET ZX Spectrum Emulator, written in C#
 * [FUSE](https://fuse-emulator.sourceforge.net/) — Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprisingly, a ZX Spectrum emulator for Unix. [Ports](https://fuse-emulator.sourceforge.net/#Download) for Mac OS X, Windows, Android, Haiku, AmigaOS 4, MorphOS, PSP, Wii, etc
-* [FuseX](https://spectranext.net/emulation.html) — fork of Fuse 1.7.0 with Spectranext Emulation. [GitHub](https://github.com/speccytools/fusex)
+* [FuseX](https://spectranext.net/emulation.html) — fork of Fuse 1.8.0 with Spectranext Emulation. [GitHub](https://github.com/speccytools/fusex)
+* [Fuse for developers](https://github.com/thefossilrecord/fuse_for_devs) — Branch of fuse 1.9.0 with experimental features and changes to improve the debugger on Linux/GTK and Windows for people using it to develop code with
 * [De-Fuse](https://github.com/mistificator/de-fuse) — Dirty patched fork of Fuse (1.6.0)
 * [ArkiFUSE](https://sourceforge.net/projects/arki55-fuse-mod/) — fork of Fuse 1.6.0 contains some additional modifications and fixes, which have not been accepted or merged (yet) into the original FUSE project (Spectrum 128K + Didaktik D80, 3 channel 8-bit D/A converter based on i8255A chip, etc)
 * [FDD3000 Emulator](https://sourceforge.net/projects/fdd3000e/) — fork of Fuse contains emulation of Timex FDD3000
