@@ -35,6 +35,7 @@ weight = 1
 * [rtZXD](https://t.me/RETtoZXDev) — Программирование и разработка игр для ZX spectrum и ретроплатформ.
 * [ZXEvolution Games](https://t.me/ZXEvolutionGames) — Making games for ZX Spectrum 128 / ZX Evolution / ZX Next
 * [RTS на изичах](https://t.me/zxGameDev8bit) — Создание RTS для TS Config/Spectrum Next/Sprinter
+* [ZX Live Develop](https://t.me/ZXLiveDevelop) — чат для общения по разработкам deadlykom
 ### ZX Games
 * [ZX Games](https://t.me/zxgames) — Обсуждение новых и старых игр для ZX Spectrum
 ### ZX hard and emulation
@@ -113,6 +114,7 @@ weight = 1
 #### 8080 \ 8085 \ 8086
 * [ПК на 8080|8085 — hardware](https://t.me/vm80a) — Радио-86РК, Специалист, Орион, ЮТ-88 и т.д. Hardware.
 * [PC8086](https://t.me/PC8086) — ПК на 8088|8086
+* [Ретро компьютеры (8088 286 386 486 P1)](https://t.me/eonemagic) — Старые компьютеры, старые комплектующие: обсуждение работы, использования и прочее...
 #### Enterprise
 * [ retrocompEnterprise](https://t.me/Enterprise_retrocomp) — Сообщество по компьютеру ENTERPRISE
 #### Other

@@ -144,6 +144,8 @@ weight = 2
 * [AYpod — Antique Toy podcast](https://aypod.ru) — Подкаст о музыке созданнной для 8-разрядного коммпьютера ZX Spectrum
 * [Scene podcast archive](https://mega.nz/folder/CJNAmSgD#Y1LIMMsHqX5Zw2Iye2p_Fw) — Архив подкаста Scene
 ### Online radio
+* [Hyperadio](https://stream.hyperadio.ru) — demoscene music, video games music, chiptunes 24/7
+* [RGC FM](https://rgc.zone/fm.html) — РАДИО РЕТРОИГР (chiptunes) 
 * [Nectarine site](https://www.scenemusic.eu/demovibes/) — This site is a tribute to all the great computer & demoscene artists. We stream their music for you 24/7
 * [Nectarine streams page](https://www.scenemusic.eu/demovibes/streams/)
 * [Nectarine stream](http://nectarine.inversi0n.org:8000/necta192.mp3.m3u) — 192k-MP3
