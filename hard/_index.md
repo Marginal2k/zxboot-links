@@ -19,12 +19,15 @@ weight = 4
 * [Unreal Speccy Portable](https://bitbucket.org/djdron/unrealspeccyp/wiki/Home) — Portable ZX-Spectrum emulator supports Z80 128K (Pentagon) AY/YM, Beeper, Beta Disk, Tape, Kempston Joystick/Mouse, Snapshots, Replays. [Ports](https://emutopia.com/index.php/emulators/item/364-sinclair-zx-spectrum/253-unreal-speccy-portable) for [Android](https://f-droid.org/packages/app.usp/), Symbian, JAVA, PSP, etc
 * [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine
 * [ZXMAK.NET](https://sourceforge.net/projects/zxmak-dotnet/) — The Free .NET ZX Spectrum Emulator, written in C#
+* [Kozynax](https://github.com/kozynax/kozynax) — новый эмулятор ZX Spectrum, основанный на движке ZXMAK2, но со своим подходом к интерфейсу. Linux/MacOS/Windows
 * [FUSE](https://fuse-emulator.sourceforge.net/) — Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprisingly, a ZX Spectrum emulator for Unix. [Ports](https://fuse-emulator.sourceforge.net/#Download) for Mac OS X, Windows, Android, Haiku, AmigaOS 4, MorphOS, PSP, Wii, etc
 * [FuseX](https://spectranext.net/emulation.html) — fork of Fuse 1.8.0 with Spectranext Emulation. [GitHub](https://github.com/speccytools/fusex)
 * [Fuse for developers](https://github.com/thefossilrecord/fuse_for_devs) — Branch of fuse 1.9.0 with experimental features and changes to improve the debugger on Linux/GTK and Windows for people using it to develop code with
 * [De-Fuse](https://github.com/mistificator/de-fuse) — Dirty patched fork of Fuse (1.6.0)
 * [ArkiFUSE](https://sourceforge.net/projects/arki55-fuse-mod/) — fork of Fuse 1.6.0 contains some additional modifications and fixes, which have not been accepted or merged (yet) into the original FUSE project (Spectrum 128K + Didaktik D80, 3 channel 8-bit D/A converter based on i8255A chip, etc)
 * [FDD3000 Emulator](https://sourceforge.net/projects/fdd3000e/) — fork of Fuse contains emulation of Timex FDD3000
+* [Fuse Emulator for HC 2000](https://sites.google.com/site/georgechirtoaca/projects?pli=1&authuser=0#h.p_ID_177) — Modified for HC disk access by Alex Badea, now with CP/M support. Based on Fuse 1.1.0
+* [Zedex](https://github.com/dimitriuz/zedex) — modern ZX Spectrum emulator for Android 11 and later. The emulation is Fuse, unmodified; the front end is native
 * [ZXSpectr](https://github.com/chernandezba/zxspectr) — It's a ZX Spectrum emulator written entirely in Assembler. It runs under MS-DOS
 * [Speccy](https://fms.komkon.org/Speccy/) — Portable Sinclair ZX Spectrum and Sam Coupe Emulator by Marat Fayzullin. It runs under Windows/Linux/Android/MS-DOS/Symbian/Maemo
 * [Glukalka ZX Spectrum Emulator](http://www.sanarin.ru/glukalka/) — Glukalka is a emulator of ZX Spectrum 48K/128K and Spectrum clones. It runs on Linux/Windows/MacOS/Android
@@ -76,10 +79,15 @@ weight = 4
 * [pi-mame](https://github.com/Xalior/pi-mame/) — Bare-metal MAME for the Raspberry Pi 4. No Linux, no OS, no desktop. Two families are emulated: [Sinclair](https://github.com/Xalior/pi-mame/blob/main/docs/sinclair/README.md) and [Amstrad](https://github.com/Xalior/pi-mame/blob/main/docs/amstrad/README.md)
 * [JaS](https://jas.speccy.org/) — Java Spectrum emulator
 * [JSSpeccy 3](https://github.com/gasman/jsspeccy3) — ZX Spectrum emulator for the browser. Умеет в Пентагон, но не умеет в TR-DOS
+* [JSSpeccy 3 mobile](https://github.com/dcrespo3d/jsspeccy3-mobile) — ZX Spectrum emulator for mobile browsers with per-game customizable soft keys
+* [JSSpeccy3 FORK by dtz-labs](https://dtz-labs.github.io/jsspeccy3/) — fork with Timex TC2048 and Timex TC2068 machines support. [GitHub](https://github.com/dtz-labs/jsspeccy3)
 * [JSpeccy](https://github.com/jsanchezv/JSpeccy) — multiplatform ZX Spectrum emulator written in Java
 * [simpleTK](https://sites.google.com/site/tk90disk/) — Эмулятор TK90X/95 - Pentagon 128k - ZX Spectrum48/128k. Эмулируется как Betadisk 128 (TR-DOS 5.03) так и различные версии Betadisk 48 (TR-DOS 4.x), Kempston mouse. Встроенный монитор, поддержка RZX.
 * [ZX-M8XXX9(ZX Matrix)](https://github.com/Bedazzle/ZX-M8XXX) — vanilla JavaScript ZX Spectrum emulator with debugger aimed for reverse engineering
-* [ZX84](https://zx84.envytech.workers.dev/) — Sinclair ZX Spectrum emulator for your browser with MCP server by Damien Guard. 48k/128k/+3. Tr-Dos не поддерживает. [GitHub](https://github.com/damieng/zx84)
+* [ZX84](https://zx84.envytech.workers.dev/) — Sinclair ZX Spectrum emulator for your browser with MCP server by Damien Guard. 16k/48k/128k/+3/Multiface 1/ZX Interface 1/MGT +D/TR-DOS/Jupier Ace/Sam Coupe/MSX/Amstrad/Tatung...  [GitHub](https://github.com/damieng/zx84)
+* [Turbo80](https://turbo80.com/) — ZX Spectrum emulator in JavaScript. 12 selectable machines: 16K, 48K, 128K, +2, +2A, +3, Pentagon 128, Pentagon 1024 (it also understands 512 KB states), Scorpion ZS 256 and the Timex TC2048, TC2068 and TS2068, all with the ULAplus extended colour mode
+* [Didaktik + D80 + BT-100](https://pavel-krivanek.github.io/didaktik/) — Didaktik 80k/Didaktik M/Didaktik Kompakt/ZX48/ZX12 + Didaktik D80 (MDOS) + BT-100 Printer + Kempston Mouse
+* [Refract](https://www.softwareamusements.com/Web/RefractEmulator/refract-emulator-release.html) — ZX Spectrum Next Emulator for web browser
 * [EmuStudio-ZX](https://zx-pk.ru/threads/21908-emustudio-zx.html) — эмулятор от Titus'а: эмуляция железа реального времени (каждый кадр эмулируемой системы совпадает с кадром развертки PC), эмуляция AY-3-8910 сделана точно по реверсу кристалла
 * [Zero](https://github.com/ArjunNair/Zero-Emulator) — a spectrum emulator written entirely on the .NET platform, using C#, and requires .NET framework 4.7 or above. Emulates the 48k, 128k, 128k SE, the Spectrum +2 and the Spectrum +3 (with 2 disk drives), and the Pentagon 128k models.
 * [SoftSpectrum 48](https://softspectrum48.weebly.com/) — ZX Spectrum 16K/48K/128/+2/+2A/+3 emulation. Contended memory, contended I/O and the floating bus are emulated (including  the +2A/+3 floating bus)
