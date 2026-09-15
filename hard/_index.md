@@ -11,7 +11,8 @@ weight = 4
 
 # Emulators & Hardware
 ## Emulators Spectrum
-* [Xpeccy](https://github.com/samstyle/Xpeccy) — Multiplatform emulator of retro computers
+* [Xpeccy](https://github.com/samstyle/Xpeccy) — Multiplatform emulator of retro computers. Win/Linux
+* [Xpeccy+](https://github.com/dotkoval/xpeccy-plus) — Xpeccy+ is a fork of Xpeccy by SAM style. ZX Spectrum only. Since 2026.4 the other machines are not built, and since 2026.5 their code is gone from the tree. Win/Linux/MacOS
 * [Zen](https://github.com/stevehjohn/Zen) —  New Z80/ZX Spectrum emulator
 * [Unreal](http://dlcorp.nedopc.com/viewtopic.php?f=27&t=1525) — Version 0.39.0 25 jan 2019 от deathsoft
 * [Unreal (tslabs)](https://github.com/tslabs/zx-evo/tree/master/pentevo/unreal/Unreal) — Официальная дороботка Unreal с поддержкой TS-Configuration в ZX Evolution
