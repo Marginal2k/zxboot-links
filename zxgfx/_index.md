@@ -43,6 +43,7 @@ weight = 5
 * [Multipaint 2020.2 by Dr. TerrorZ'20](https://vtrd.in/pcutilz/MULPAINT.zip) — free PC/Mac/Linux графический редактор [site](http://multipaint.kameli.net/)
 * [MultiArtist v0.96 by TmK, riskej'16](https://vtrd.in/pcutilz/MULTA096.zip) — free PC редактор MultiGigascreen графики [site](https://multiartist.untergrund.net)
 * [SevenuP v1.20 by Metalbrain'08](https://vtrd.in/pcutilz/SEVENUP.zip) — free PC/Linux/FreeBSD/Mac графический редактор [site](https://metalbrain.speccy.org)
+* [SevenuP Updated builds](https://zxtoolkit.com/sevenup/) — Metalbrain's ZX Spectrum graphic editor, carried forward from the unfinished 1.21 source to build and run on today's macOS, Linux and Windows. [GitHub](https://github.com/zxtoolkit/sevenup)
 * [ZX Spectrum Screen Editor v0.7 by Alexey Susekov'01, moroz1999'08](https://vtrd.in/pcutilz/ZXGFX07.ZIP) — free PC [графический редактор](https://blaster.narod.ru/)
 * [ZX-Draw v1.01 by MaRaf Soft'19](https://vtrd.in/pcutilz/ZXDRAW.zip) — free PC графический редактор
 * [ZX-Paintbrush v2.6.4 by Claus Jahn'17](https://vtrd.in/pcutilz/ZX-PAINT1.zip) — free PC графический редактор [site](https://sourcesolutions.itch.io/zx-paintbrush)
