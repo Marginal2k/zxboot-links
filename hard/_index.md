@@ -58,6 +58,7 @@ weight = 4
 * [CSpect](http://www.cspect.org/) — Emulates many features of the Next and includes a fully featured debugger, complete with 24-bit breakpoints and an assembler
 * [jnext](https://github.com/jorgegv/jnext) — ZX Spectrum Next emulator using VHDL sources as a reference
 * [zx_go](https://github.com/conorarmstrong/zx_go) — faithful emulator for the entire Sinclair 8-bit line — the ZX80, the ZX81, every classic ZX Spectrum (48K, 128K, +2, +2A, +3), the Pentagon clone, SAM Coupé and a from-the-silicon-up ZX Spectrum Next — written in Go.
+* [zxgo-v3](https://github.com/kiltum/zxgo-v3) — ZX Spectrum emulator written in Go. 48K, 128K, +2A/+3, Pentagon 128 and Pentagon 512, TurboSound, TurboSound FM (YM2203), Covox, SounDrive and the General Sound card. Дружелюбен к ИИ (есть МСР сервер) 
 * [SpecEmu](https://specemu.zxe.io/) — SpecEmu emulator (for snow/rain "enable ula snow")
 * [ZXSEC](http://cngsoft.no-ip.org/cpcec.htm) — CPCEC Amstrad CPC emulator and its siblings ZXSEC, CSFEC and MSXEC
 * [Swan](https://github.com/zoran-vucenovic/swan) — ZX Spectrum emulator for Windows and Linux. Might compile and run on Mac, but not tested
@@ -85,7 +86,7 @@ weight = 4
 * [JSpeccy](https://github.com/jsanchezv/JSpeccy) — multiplatform ZX Spectrum emulator written in Java
 * [simpleTK](https://sites.google.com/site/tk90disk/) — Эмулятор TK90X/95 - Pentagon 128k - ZX Spectrum48/128k. Эмулируется как Betadisk 128 (TR-DOS 5.03) так и различные версии Betadisk 48 (TR-DOS 4.x), Kempston mouse. Встроенный монитор, поддержка RZX.
 * [ZX-M8XXX9(ZX Matrix)](https://github.com/Bedazzle/ZX-M8XXX) — vanilla JavaScript ZX Spectrum emulator with debugger aimed for reverse engineering
-* [ZX84](https://zx84.envytech.workers.dev/) — Sinclair ZX Spectrum emulator for your browser with MCP server by Damien Guard. 16k/48k/128k/+3/Multiface 1/ZX Interface 1/MGT +D/TR-DOS/Jupier Ace/Sam Coupe/MSX/Amstrad/Tatung...  [GitHub](https://github.com/damieng/zx84)
+* [ZX84](https://zx84.envytech.workers.dev/) — Sinclair ZX Spectrum emulator for your browser with MCP server by Damien Guard. 16k/48k/128k/+3/Multiface 1/ZX Interface 1/MGT +D/TR-DOS/Jupiter Ace/Sam Coupe/MSX/Amstrad/Tatung...  [GitHub](https://github.com/damieng/zx84)
 * [Turbo80](https://turbo80.com/) — ZX Spectrum emulator in JavaScript. 12 selectable machines: 16K, 48K, 128K, +2, +2A, +3, Pentagon 128, Pentagon 1024 (it also understands 512 KB states), Scorpion ZS 256 and the Timex TC2048, TC2068 and TS2068, all with the ULAplus extended colour mode
 * [Didaktik + D80 + BT-100](https://pavel-krivanek.github.io/didaktik/) — Didaktik 80k/Didaktik M/Didaktik Kompakt/ZX48/ZX12 + Didaktik D80 (MDOS) + BT-100 Printer + Kempston Mouse
 * [Refract](https://www.softwareamusements.com/Web/RefractEmulator/refract-emulator-release.html) — ZX Spectrum Next Emulator for web browser
