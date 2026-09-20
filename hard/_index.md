@@ -21,6 +21,7 @@ weight = 4
 * [ZXMAK2](https://github.com/zxmak/ZXMAK2) — ZX Spectrum Emulator — Virtual Machine
 * [ZXMAK.NET](https://sourceforge.net/projects/zxmak-dotnet/) — The Free .NET ZX Spectrum Emulator, written in C#
 * [Kozynax](https://github.com/kozynax/kozynax) — новый эмулятор ZX Spectrum, основанный на движке ZXMAK2, но со своим подходом к интерфейсу. Linux/MacOS/Windows
+* [ZXMAK2-Fork](https://github.com/Moro44444444/ZXMAK2-Fork) — форк с упором на ZX Evo BaseConf, TS-Conf, ATM 2...
 * [FUSE](https://fuse-emulator.sourceforge.net/) — Fuse (the Free Unix Spectrum Emulator) was originally, and somewhat unsurprisingly, a ZX Spectrum emulator for Unix. [Ports](https://fuse-emulator.sourceforge.net/#Download) for Mac OS X, Windows, Android, Haiku, AmigaOS 4, MorphOS, PSP, Wii, etc
 * [FuseX](https://spectranext.net/emulation.html) — fork of Fuse 1.8.0 with Spectranext Emulation. [GitHub](https://github.com/speccytools/fusex)
 * [Fuse for developers](https://github.com/thefossilrecord/fuse_for_devs) — Branch of fuse 1.9.0 with experimental features and changes to improve the debugger on Linux/GTK and Windows for people using it to develop code with
